@@ -24,7 +24,7 @@ A Coalizão Mundial Sáude e Vida - [COMUSAV](https://comusav.com/pt/) formada p
 
 ### [CANAL DIOXIDO DE CLORO BRASIL](https://www.brighteon.com/channels/clo2brasil)
 
-### [DR. MANUEL APARICIO (COMUSAV) - CDS DOSAGEM PEDIÁTRICA](https://www.brighteon.com/1b5e9399-1c10-48ff-a3eb-174a533976e6)
+### [DR. MANUEL APARICIO ALONSO (COMUSAV) - CDS DOSAGEM PEDIÁTRICA](https://www.brighteon.com/1b5e9399-1c10-48ff-a3eb-174a533976e6)
 
 ### [Uma Jornada Humilde - A História do MMS - Um Filme de Sacha Stone](https://rumble.com/ve2lo7-uma-jornada-humilde-a-histria-do-mms-um-filme-de-sacha-stone.html)
 
