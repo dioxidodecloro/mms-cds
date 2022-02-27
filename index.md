@@ -20,7 +20,7 @@ A Coalizão Mundial Sáude e Vida - [COMUSAV](https://comusav.com/pt/) formada p
 
 ### OUTRAS INFORMAÇÕES SOBRE O MMS E CDS:
 
-### [DIÓXIDO DE CLORO - DR. LAIR RIBEIRO]((https://www.brighteon.com/c69756e9-4793-47f6-a035-09a3f487b327))
+### [DIÓXIDO DE CLORO - DR. LAIR RIBEIRO](https://www.brighteon.com/c69756e9-4793-47f6-a035-09a3f487b327)
 
 ### [CANAL DIOXIDO DE CLORO BRASIL](https://www.brighteon.com/channels/clo2brasil)
 
