@@ -20,6 +20,10 @@ A Coalizão Mundial Sáude e Vida - [COMUSAV](https://comusav.com/pt/) formada p
 
 ### OUTRAS INFORMAÇÕES SOBRE O MMS E CDS:
 
+### [DIÓXIDO DE CLORO - DR. LAIR RIBEIRO]((https://www.brighteon.com/c69756e9-4793-47f6-a035-09a3f487b327))
+
+### [CANAL DIOXIDO DE CLORO BRASIL](https://www.brighteon.com/channels/clo2brasil)
+
 ### [Uma Jornada Humilde - A História do MMS - Um Filme de Sacha Stone](https://rumble.com/ve2lo7-uma-jornada-humilde-a-histria-do-mms-um-filme-de-sacha-stone.html)
 
 ### [Como fracionar uma gota ativada de MMS 1/4 ½. ¾](https://rumble.com/ve6zqb-como-fracionar-uma-gota-ativada-de-mms.html)
