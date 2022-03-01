@@ -13,7 +13,7 @@ O gás DIÓXIDO DE CLORO para uso no tratamento de infecção por vírus respira
 
 ### [Determination of the Effectiveness of Chlorine Dioxide in the Treatment of COVID 19](https://www.academia.edu/49035123/Determination_of_the_Effectiveness_of_Chlorine_Dioxide_in_the_Treatment_of_COVID_19) e em espanhol: [Determinación de la Eficacia del Dióxido de Cloro en el Tratamiento de COVID-19)](https://www.bibliotecapleyades.net/archivos_pdf/determinación-eficacia-dióxidocloro-covid19.pdf)
 
-### [ESTUDOS CLÍNICOS COM DIÓXIDO DE CLORO]](https://andreaskalcker.com/coronavirus/estudio-clinico-con-dioxido-de-cloro.html)
+### [ESTUDOS CLÍNICOS COM DIÓXIDO DE CLORO](https://andreaskalcker.com/coronavirus/estudio-clinico-con-dioxido-de-cloro.html)
 
 
 
