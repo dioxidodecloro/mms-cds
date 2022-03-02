@@ -8,18 +8,18 @@ O [Dr. Lair Ribeiro](https://lairribeiro.com.br/) em sua [aula](https://www.brig
 
 O gás DIÓXIDO DE CLORO para uso no tratamento de infecção por vírus respiratório está patenteado no Instituto Europeu de Patentes [European Patent Office](https://www.epo.org) com a patente número [EP1955719B1](https://patentimages.storage.googleapis.com/2d/85/b8/d4000ff982031b/EP1955719B1.pdf), traduzida para a língua espanhola pela [OFICINA ESPAÑOLA DE PATENTES Y MARCAS](https://www.oepm.es/es/index.html) na publicação número [2 518 368](https://patentimages.storage.googleapis.com/f0/8f/9b/4356d4bff1c967/ES2518368T3.pdf)
 
-## Diversos estudos demonstram a eficácia do dióxido de cloro no tratamento das doenças: 
-### [Inhibition of the Binding of Variants of SARS-CoV-2 Coronavirus Spike Protein to a Human Receptor by Chlorine Dioxide](http://www.remedypublications.com/open-access/inhibition-of-the-binding-of-variants-of-sars-cov-2-coronavirus-spike-7364.pdf)
+### Diversos estudos demonstram a eficácia do dióxido de cloro no tratamento das doenças: 
+## [Inhibition of the Binding of Variants of SARS-CoV-2 Coronavirus Spike Protein to a Human Receptor by Chlorine Dioxide](http://www.remedypublications.com/open-access/inhibition-of-the-binding-of-variants-of-sars-cov-2-coronavirus-spike-7364.pdf)
 
-### [Determination of the Effectiveness of Chlorine Dioxide in the Treatment of COVID 19](https://www.academia.edu/49035123/Determination_of_the_Effectiveness_of_Chlorine_Dioxide_in_the_Treatment_of_COVID_19) e em espanhol: [Determinación de la Eficacia del Dióxido de Cloro en el Tratamiento de COVID-19)](https://www.bibliotecapleyades.net/archivos_pdf/determinación-eficacia-dióxidocloro-covid19.pdf)
+## [Determination of the Effectiveness of Chlorine Dioxide in the Treatment of COVID 19](https://www.academia.edu/49035123/Determination_of_the_Effectiveness_of_Chlorine_Dioxide_in_the_Treatment_of_COVID_19) e em espanhol: [Determinación de la Eficacia del Dióxido de Cloro en el Tratamiento de COVID-19)](https://www.bibliotecapleyades.net/archivos_pdf/determinación-eficacia-dióxidocloro-covid19.pdf)
 
-### [ESTUDOS CLÍNICOS COM DIÓXIDO DE CLORO](https://andreaskalcker.com/coronavirus/estudio-clinico-con-dioxido-de-cloro.html)
-
-
+## [ESTUDOS CLÍNICOS COM DIÓXIDO DE CLORO](https://andreaskalcker.com/coronavirus/estudio-clinico-con-dioxido-de-cloro.html)
 
 No Brasil, o dióxido de Cloro é comercializado livremente pois o Ministério de saúde autoriza a aplicação de dióxido de cloro, no tratamento da água de consumo humano para torná-la potável, conforme disposto no Artigo 32 da [Portaria MS Nº 2914 DE 12/12/2011](https://www.gov.br/agricultura/pt-br/assuntos/inspecao/produtos-vegetal/legislacao-1/biblioteca-de-normas-vinhos-e-bebidas/portaria-no-2-914-de-12-de-dezembro-de-2011.pdf/@@download/file/portaria-no-2-914-de-12-de-dezembro-de-2011.pdf).
 
 [International Dioxcide](https://idiclo2.com/), é principal fornecedora de produtos químicos e equipamentos de dióxido de cloro para uso comercial na América do Norte (EUA, Canadá e México) e por mais de 70 anos, fornece ingredientes de qualidade e instrui milhares de organizações sobre como fabricar dióxido de cloro com segurança e implementar efetivamente soluções de desinfecção de [tratamento de água](https://www.brighteon.com/889cad0c-e805-4121-9b35-9cd20632da76) em larga escala para aplicações aprovadas pela [EPA](https://www.epa.gov/) e [FDA](https://www.fda.gov/). 
+
+Em 14/10/2020 o governo boliviano, aprovou a [Lei nº 1351 de 2020](https://web.senado.gob.bo/sites/default/files/LEY%20N°1351-2020.PDF) que autoriza a preparação, a comercialização, o fornecimento e o uso sob consentimento da solução de dióxido de cloro CDS, para a prevenção e tratamento contra a pandemia COVID-19. Participaram da sua elaboração um comitê composto por 5 universidades (Universidade Técnica de Oruro, Universidade Pública de El Alto, Universidade Grande de San Simón, Universidade Autônoma Gabriel René Moreno e o Instituto Técnico de Yacuiba "Gran Chaco") as mesmas seguem na condução das suas próprias pesquisas sobre dióxido de cloro para uso nas diversas aplicações.
 
 No Brasil há o [Projeto de Lei 192/21](https://www.camara.leg.br/noticias/728085-PROJETO-OBRIGA-SERVICOS-DE-SAUDE-A-FORNECER-DIOXIDO-DE-CLORO-PARA-TRATAR-A-COVID-19) tramitando no Congresso para obrigar os serviços de saúde a fornecer dióxido de cloro para tratar a Covid-19. Neste site da Câmara há muitos comentários testemunhando o êxito na cura de diversas enfermidades. 
 
