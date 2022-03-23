@@ -29,6 +29,12 @@ A Coalizão Mundial Sáude e Vida - [COMUSAV](https://comusav.com/pt/) formada p
 
 ### OUTRAS INFORMAÇÕES SOBRE O MMS E CDS:
 
+### [The Universal Antidote Interactive Reference Guidebook (download)](https://theuniversalantidote.com/wp-content/uploads/2021/02/The-Universal-Antidote-Interactive-Reference-Guidebook.pdf) 
+
+### [DOCUMENTÁRIO SOBRE DIÓXIDO DE CLORO](https://www.brighteon.com/8197896d-c382-4909-87dc-d4d439fa3b51)
+
+### [TESTEMUNH0 DE CURA COM MMS/CDS DE CÂNCER NOS OSSOS COM METASTASE PULMÃO (estadio 5) ENTREVISTA CONCEDIDA A ANDREAS KALCKER](https://www.brighteon.com/58475df1-55ed-4ebd-878b-12c3e66c67e4)
+
 ### [DIÓXIDO DE CLORO - DR. LAIR RIBEIRO](https://www.brighteon.com/c69756e9-4793-47f6-a035-09a3f487b327)
 
 ### [CANAL DIOXIDO DE CLORO BRASIL](https://www.brighteon.com/channels/clo2brasil)
