@@ -1,6 +1,6 @@
 ### MMS (MASTER MINERAL SOLUTION) & CDS(CDS - CHLORINE DIOXIDE SOLUTION)
 
-Algumas informações sobre MMS (Master Mineral Solution) e sobre CDS (Chlorine Dioxide Solution). 
+### Algumas informações sobre MMS (Master Mineral Solution) e sobre CDS (Chlorine Dioxide Solution). 
 
 O [Dr. Lair Ribeiro](https://lairribeiro.com.br/) em sua [aula](https://vimeo.com/591516100) do curso de Pós-Graduação para médicos e profissionais da saúde, além de destacar o embasamento científico da atuação benéfica do dióxido de cloro para a manutenção da saúde do organismo humano, apresentou um resumo da história de como Jim Humble, em 1996, descobriu o efeito curativo do dióxido de cloro  da solução que, então chamava de [MMS - MINERAL MIRACLE SOLUTION](https://www.brighteon.com/87d0d196-eb89-4784-b1c3-013361db4656) e do [CDS - CHLORINE DIOXIDE SOLUTION](https://www.brighteon.com/f333abd4-bf23-4374-bec3-ce08e4994e85) desenvolvido pelo Dr. Andreas Ludwig Kalcker, biofísico, após obter a cura de artrite reumatoide grave tomando o MMS. Dr. Andreas Kalcker, em sua palestra no Rio de Janeiro em outubro de 2015, [Palestra do Dr. Andreas Kalcker: MMS - CDS:  NOVOS HORIZONTES NO CAMINHO DA CURA](https://www.youtube.com/watch?v=vO5AFvsxyrc), comentada pelo Dr. Lair Ribeiro em sua aula, apresenta mais detalhes sobre sua experiência pessoal e profissional no uso do MMS/CDS. Seu livro [SAÚDE PROIBIDA - NADA É INCURÁVEL](https://docero.com.br/doc/se80e01) está escrito de maneira simples e compreensível, quer seja para principiantes ou profissionais da saúde, com uma valiosa recompilação de dados, protocolos e testemunhos de recuperações de A a Z. Muitas destas informações também podem ser obtidas em seu [site](https://andreaskalcker.com/pt/)
 
@@ -28,6 +28,8 @@ Trata-se de produto purificador de água livremente comercializado no Brasil, co
 A Coalizão Mundial Sáude e Vida - [COMUSAV](https://comusav.com/pt/) formada por mais de 5000 médicos e profissionais da saúde de vários paises, que utilizam o CDS em seus tratamentos, também oferece muitas publicações a respeito em seu site. 
 
 ### OUTRAS INFORMAÇÕES SOBRE O MMS E CDS:
+
+### [Determinação da eficácia do dióxido de cloro no tratamento do COVID 19](https://www.academia.edu/49035123/Determination_of_the_Effectiveness_of_Chlorine_Dioxide_in_the_Treatment_of_COVID_19?email_work_card=title)
 
 ### [The Universal Antidote Interactive Reference Guidebook (download)](https://theuniversalantidote.com/wp-content/uploads/2021/02/The-Universal-Antidote-Interactive-Reference-Guidebook.pdf) 
 
