@@ -10,8 +10,6 @@ O gás DIÓXIDO DE CLORO para uso no tratamento de infecção por vírus respira
 
 ### Diversos estudos demonstram a eficácia do dióxido de cloro no tratamento das doenças: 
 
-## [Determinação da eficácia do dióxido de cloro no tratamento do COVID 19](https://www.academia.edu/49035123/Determination_of_the_Effectiveness_of_Chlorine_Dioxide_in_the_Treatment_of_COVID_19?email_work_card=title)
-
 ## [Inhibition of the Binding of Variants of SARS-CoV-2 Coronavirus Spike Protein to a Human Receptor by Chlorine Dioxide](http://www.remedypublications.com/open-access/inhibition-of-the-binding-of-variants-of-sars-cov-2-coronavirus-spike-7364.pdf)
 
 ## [Determination of the Effectiveness of Chlorine Dioxide in the Treatment of COVID 19](https://www.academia.edu/49035123/Determination_of_the_Effectiveness_of_Chlorine_Dioxide_in_the_Treatment_of_COVID_19) e em espanhol: [Determinación de la Eficacia del Dióxido de Cloro en el Tratamiento de COVID-19)](https://www.bibliotecapleyades.net/archivos_pdf/determinación-eficacia-dióxidocloro-covid19.pdf)
