@@ -18,7 +18,7 @@ O gás DIÓXIDO DE CLORO para uso no tratamento de infecção por vírus respira
 
 No Brasil, o dióxido de Cloro é comercializado livremente pois o Ministério de saúde autoriza a aplicação de dióxido de cloro, no tratamento da água de consumo humano para torná-la potável, conforme disposto no Artigo 32 da [Portaria MS Nº 2914 DE 12/12/2011](https://www.gov.br/agricultura/pt-br/assuntos/inspecao/produtos-vegetal/legislacao-1/biblioteca-de-normas-vinhos-e-bebidas/portaria-no-2-914-de-12-de-dezembro-de-2011.pdf/@@download/file/portaria-no-2-914-de-12-de-dezembro-de-2011.pdf).
 
-Estudo desenvolvido por: Dra. Angela Di Bernardo Dantas, Dr. Luiz Di Bernardo e Dra. Cristina Paschoalato sobre [DIÓXIDO DE CLORO NO TRATAMENTO DE ÁGUA](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fdioxidodecloro%2Fmms-cds%2Fedit%2Fgh-pages%2Findex.md)
+Estudo desenvolvido por: Dra. Angela Di Bernardo Dantas, Dr. Luiz Di Bernardo e Dra. Cristina Paschoalato sobre [DIÓXIDO DE CLORO NO TRATAMENTO DE ÁGUA](https://site.sabesp.com.br/site/uploads/File/audiencias_inova%C3%A7%E2%95%9Eo/Di%C3%B3xido%20de%20cloro%20no%20tratamento%20da%20%C3%A1gua.pdf)
 
 Lucas Donato é Supervisor Comercial da unidade de negócio Sabará Químicos e Ingredientes, pertencente ao Grupo Sabará, empresa que oferece ao mercado soluções integradas para o tratamento de águas industriais e saneamento básico, garantindo há mais de 60 anos o fornecimento de produtos, equipamentos e serviços publicou o artigo intitulado [Dióxido de cloro ganha destaque em estações de tratamento de água no Brasil](https://www.sabaraquimicos.com/dioxido-de-cloro-ganha-destaque-em-estacoes-de-tratamento-de-agua-no-brasil/)
 
