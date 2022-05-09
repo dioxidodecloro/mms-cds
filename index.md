@@ -30,7 +30,7 @@ No Brasil há o [Projeto de Lei 192/21](https://www.camara.leg.br/noticias/72808
 
 Trata-se de produto purificador de água livremente comercializado no Brasil, como por exemplo pelas empresas: [Prana-Luz](https://www.purificadordeagua.shop) e [Loja Química](https://www.lojaquimica.com.br/kits-kit-mms-clorito-de-sodio-acido-cloridrico).
 
-A Coalizão Mundial Sáude e Vida - [COMUSAV](https://comusav.com/pt/) formada por mais de 5000 médicos e profissionais da saúde de vários paises, que utilizam o CDS em seus tratamentos, também oferece muitas publicações a respeito em seu site. 
+A Coalizão Mundial Sáude e Vida - [COMUSAV](https://comusav.com/pt/) formada por mais de 5000 médicos e profissionais da saúde de vários paises, que utilizam o CDS em seus tratamentos, também oferece muitas publicações a respeito em seu site. [Conferência COMUSAV "LA BIOENERGÉTICA Y EXPERIENCIA CON CÁNCER", realizada em 07 de maio de 2022](https://www.facebook.com/watch/live/?ref=watch_permalink&v=549351513484506).
 
 ### OUTRAS INFORMAÇÕES SOBRE O MMS E CDS:
 
