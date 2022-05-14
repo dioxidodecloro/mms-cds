@@ -4,6 +4,20 @@
 
 O [Dr. Lair Ribeiro](https://lairribeiro.com.br/) em sua [aula](https://vimeo.com/591516100) do curso de Pós-Graduação para médicos e profissionais da saúde, além de destacar o embasamento científico da atuação benéfica do dióxido de cloro para a manutenção da saúde do organismo humano, apresentou um resumo da história de como Jim Humble, em 1996, descobriu o efeito curativo do dióxido de cloro  da solução que, então chamava de [MMS - MINERAL MIRACLE SOLUTION](https://www.brighteon.com/87d0d196-eb89-4784-b1c3-013361db4656) e do [CDS - CHLORINE DIOXIDE SOLUTION](https://www.brighteon.com/f333abd4-bf23-4374-bec3-ce08e4994e85) desenvolvido pelo Dr. Andreas Ludwig Kalcker, biofísico, após obter a cura de artrite reumatoide grave tomando o MMS. Dr. Andreas Kalcker, em sua palestra no Rio de Janeiro em outubro de 2015, [Palestra do Dr. Andreas Kalcker: MMS - CDS:  NOVOS HORIZONTES NO CAMINHO DA CURA](https://www.youtube.com/watch?v=vO5AFvsxyrc), comentada pelo Dr. Lair Ribeiro em sua aula, apresenta mais detalhes sobre sua experiência pessoal e profissional no uso do MMS/CDS. Seu livro [SAÚDE PROIBIDA - NADA É INCURÁVEL](https://docero.com.br/doc/se80e01) está escrito de maneira simples e compreensível, quer seja para principiantes ou profissionais da saúde, com uma valiosa recompilação de dados, protocolos e testemunhos de recuperações de A a Z. Muitas destas informações também podem ser obtidas em seu [site](https://andreaskalcker.com/pt/)
 
+Dr. Andreas Kalker, em seu livro Saúde Proibida - Nada é incurável, apresenta 26 protocolos para tratamento das mais diversas enfermidades, tais como:
+[Protocolo A: como Amador, para todos os principiantes](https://www.brighteon.com/58ff10da-d540-46f2-a9ce-4f7f10c6a2ed);
+[Protocolo B: como Básico, equivalente ao protocolo 1000](https://www.brighteon.com/1433d7cd-e7d6-4bf5-96ce-b7b5812bae2c);
+[Protocolo C: como CDS, equivalente ao protocolo 101 (110)](https://www.brighteon.com/0aed17f9-57bf-4fed-92af-0d071ae488ca);
+[Protocolo D: como Dermatológico, aplicado sobre a pele](https://www.brighteon.com/8a11fe40-6a09-4608-8613-12e28c5cab2c);
+[Protocolo E: como clistEr, lavagem intestinal](https://www.brighteon.com/ed8063ea-4ae2-4699-9973-426bdace3294);
+[Protocolo F: como Frequente, o antigo protocolo vírico 115](https://www.brighteon.com/0da584fb-27a2-4c94-99fd-fa2c2b2f5c02);
+[Protocolo G: como Gás, só se utiliza o gás dióxido de cloro](https://www.brighteon.com/aced5961-99db-4b48-9571-ed5053d78377);
+[Protocolo H: como Habitação, para evitar contágios](https://www.brighteon.com/adba3fcc-2fd2-4f83-8c05-96924525d2cc);
+[Protocolo I: como Insetos e picadas](https://www.brighteon.com/52a65d3e-1995-4140-9c07-7fd1bafcf3e2);
+[Protocolo J: como gargareJar e enxaguar](https://www.brighteon.com/a385c4d4-f5c2-467f-8abb-fc9cc4e722af) e
+[Protocolo K: como Kit, combinado com DMSO](https://www.brighteon.com/4a4382ce-691a-46a1-b574-fdd54b7f7b85).
+
+
 [Jim Humble](https://jimhumble.co/), em sua mais recente publicação, [A SOLUÇÃO MINERAL MESTRE DO TERCEIRO MILÊNIO](https://docero.com.br/doc/ssns08s), passa a chamar o MMS de Master Mineral Solution  e  relata mais testemunhos de cura de diversas doenças e o tratamento adotado pelas testemunhas com o uso do MMS. Mais detalhes sobre a descoberta no MMS por Jim Humble podem ser encontrados em seu livro [Milagroso Suplemento Mineral del Siglo 21](http://www.librosmaravillosos.com/milagrososuplementomineraldelsigloXXI/index.html). Estas informações também poderão ser obtidas em seu [site](https://jimhumble.co/).
 
 O gás DIÓXIDO DE CLORO para uso no tratamento de infecção por vírus respiratório está patenteado no Instituto Europeu de Patentes [European Patent Office](https://www.epo.org) com a patente número [EP1955719B1](https://patentimages.storage.googleapis.com/2d/85/b8/d4000ff982031b/EP1955719B1.pdf), traduzida para a língua espanhola pela [OFICINA ESPAÑOLA DE PATENTES Y MARCAS](https://www.oepm.es/es/index.html) na publicação número [2 518 368](https://patentimages.storage.googleapis.com/f0/8f/9b/4356d4bff1c967/ES2518368T3.pdf)
