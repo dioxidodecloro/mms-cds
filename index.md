@@ -24,9 +24,11 @@ Dr. Andreas Kalker, em seu livro Saúde Proibida - Nada é incurável, apresenta
 
 [Protocolo I: como Insetos e picadas](https://www.brighteon.com/52a65d3e-1995-4140-9c07-7fd1bafcf3e2);
 
-[Protocolo J: como gargareJar e enxaguar](https://www.brighteon.com/a385c4d4-f5c2-467f-8abb-fc9cc4e722af) e
+[Protocolo J: como gargareJar e enxaguar](https://www.brighteon.com/a385c4d4-f5c2-467f-8abb-fc9cc4e722af) 
 
-[Protocolo K: como Kit, combinado com DMSO](https://www.brighteon.com/4a4382ce-691a-46a1-b574-fdd54b7f7b85).
+[DMSO(DIMETILSULFÓXIDO) - O que é? Para quê serve? / Protocolo 1000+](https://www.brighteon.com/fff0154c-7741-4f0b-b393-b0d99a5257b2) e
+
+[Protocolo K: como Kit, combinado com DMSO(DIMETILSULFÓXIDO)](https://www.brighteon.com/4a4382ce-691a-46a1-b574-fdd54b7f7b85).
 
 
 [Jim Humble](https://jimhumble.co/), em sua mais recente publicação, [A SOLUÇÃO MINERAL MESTRE DO TERCEIRO MILÊNIO](https://docero.com.br/doc/ssns08s), passa a chamar o MMS de Master Mineral Solution  e  relata mais testemunhos de cura de diversas doenças e o tratamento adotado pelas testemunhas com o uso do MMS. Mais detalhes sobre a descoberta no MMS por Jim Humble podem ser encontrados em seu livro [Milagroso Suplemento Mineral del Siglo 21](http://www.librosmaravillosos.com/milagrososuplementomineraldelsigloXXI/index.html). Estas informações também poderão ser obtidas em seu [site](https://jimhumble.co/).
