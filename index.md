@@ -2,7 +2,7 @@
 
 ### Algumas informações sobre MMS (Master Mineral Solution) e sobre CDS (Chlorine Dioxide Solution). 
 
-O [Dr. Lair Ribeiro](https://lairribeiro.com.br/) em sua [AULA](https://www.brighteon.com/c69756e9-4793-47f6-a035-09a3f487b327) do curso de Pós-Graduação para médicos e profissionais da saúde, além de destacar o embasamento científico da atuação benéfica do dióxido de cloro para a manutenção da saúde do organismo humano, apresentou um resumo da história de como Jim Humble, em 1996, descobriu o efeito curativo do dióxido de cloro  da solução que, então chamava de [MMS - MINERAL MIRACLE SOLUTION](https://www.brighteon.com/87d0d196-eb89-4784-b1c3-013361db4656) e do [CDS - CHLORINE DIOXIDE SOLUTION](https://www.brighteon.com/f333abd4-bf23-4374-bec3-ce08e4994e85) desenvolvido pelo Dr. Andreas Ludwig Kalcker, biofísico, após obter a cura de artrite reumatoide grave tomando o MMS. Dr. Andreas Kalcker, em sua palestra no Rio de Janeiro em outubro de 2015, [Palestra do Dr. Andreas Kalcker: MMS - CDS:  NOVOS HORIZONTES NO CAMINHO DA CURA](https://www.youtube.com/watch?v=vO5AFvsxyrc), comentada pelo Dr. Lair Ribeiro em sua aula, apresenta mais detalhes sobre sua experiência pessoal e profissional no uso do MMS/CDS. Seu livro [SAÚDE PROIBIDA - NADA É INCURÁVEL](https://www.purificadordeagua.shop/livro-saude-proibida) está escrito de maneira simples e compreensível, quer seja para principiantes ou profissionais da saúde, com uma valiosa recompilação de dados, protocolos e testemunhos de recuperações de A a Z. Muitas destas informações também podem ser obtidas em seu [site](https://andreaskalcker.com/pt/)
+O [Dr. Lair Ribeiro](https://lairribeiro.com.br/) em sua [AULA](https://www.brighteon.com/c69756e9-4793-47f6-a035-09a3f487b327) do curso de Pós-Graduação para médicos e profissionais da saúde, além de destacar o embasamento científico da atuação benéfica do dióxido de cloro para a manutenção da saúde do organismo humano, apresentou um resumo da história de como Jim Humble, em 1996, descobriu o efeito curativo do dióxido de cloro  da solução que, então chamava de [MMS - MINERAL MIRACLE SOLUTION](https://www.brighteon.com/87d0d196-eb89-4784-b1c3-013361db4656) e do [CDS - CHLORINE DIOXIDE SOLUTION](https://www.brighteon.com/f333abd4-bf23-4374-bec3-ce08e4994e85) desenvolvido pelo Dr. Andreas Ludwig Kalcker, biofísico, após obter a cura de artrite reumatoide grave tomando o MMS. Dr. Andreas Kalcker, em sua palestra no Rio de Janeiro em outubro de 2015, [Palestra do Dr. Andreas Kalcker: MMS - CDS:  NOVOS HORIZONTES NO CAMINHO DA CURA](https://www.brighteon.com/6b032b5f-684c-4e83-962b-a4f13f2d4ac6), comentada pelo Dr. Lair Ribeiro em sua aula, apresenta mais detalhes sobre sua experiência pessoal e profissional no uso do MMS/CDS. Seu livro [SAÚDE PROIBIDA - NADA É INCURÁVEL](https://www.purificadordeagua.shop/livro-saude-proibida) está escrito de maneira simples e compreensível, quer seja para principiantes ou profissionais da saúde, com uma valiosa recompilação de dados, protocolos e testemunhos de recuperações de A a Z. Muitas destas informações também podem ser obtidas em seu [site](https://andreaskalcker.com/pt/)
 
 Dr. Andreas Kalker, em seu livro Saúde Proibida - Nada é incurável, apresenta 26 protocolos para tratamento das mais diversas enfermidades, tais como:
 
@@ -31,7 +31,7 @@ Dr. Andreas Kalker, em seu livro Saúde Proibida - Nada é incurável, apresenta
 [Protocolo K: como Kit, combinado com DMSO(DIMETILSULFÓXIDO)](https://www.brighteon.com/4a4382ce-691a-46a1-b574-fdd54b7f7b85).
 
 
-[Jim Humble](https://jimhumble.co/), em sua mais recente publicação, [A SOLUÇÃO MINERAL MESTRE DO TERCEIRO MILÊNIO](https://docero.com.br/doc/ssns08s), passa a chamar o MMS de Master Mineral Solution  e  relata mais testemunhos de cura de diversas doenças e o tratamento adotado pelas testemunhas com o uso do MMS. Mais detalhes sobre a descoberta no MMS por Jim Humble podem ser encontrados em seu livro [Milagroso Suplemento Mineral del Siglo 21](http://www.librosmaravillosos.com/milagrososuplementomineraldelsigloXXI/index.html). Estas informações também poderão ser obtidas em seu [site](https://jimhumble.co/).
+[Jim Humble](https://jimhumble.co/), em sua mais recente publicação, [A SOLUÇÃO MINERAL MESTRE DO TERCEIRO MILÊNIO](https://doceru.com/doc/c00xnv), passa a chamar o MMS de Master Mineral Solution  e  relata mais testemunhos de cura de diversas doenças e o tratamento adotado pelas testemunhas com o uso do MMS. Mais detalhes sobre a descoberta no MMS por Jim Humble podem ser encontrados em seu livro [Milagroso Suplemento Mineral del Siglo 21](http://www.librosmaravillosos.com/milagrososuplementomineraldelsigloXXI/index.html). Estas informações também poderão ser obtidas em seu [site](https://jimhumble.co/).
 
 O gás DIÓXIDO DE CLORO para uso no tratamento de infecção por vírus respiratório está patenteado no Instituto Europeu de Patentes [European Patent Office](https://www.epo.org) com a patente número [EP1955719B1](https://patentimages.storage.googleapis.com/2d/85/b8/d4000ff982031b/EP1955719B1.pdf), traduzida para a língua espanhola pela [OFICINA ESPAÑOLA DE PATENTES Y MARCAS](https://www.oepm.es/es/index.html) na publicação número [2 518 368](https://patentimages.storage.googleapis.com/f0/8f/9b/4356d4bff1c967/ES2518368T3.pdf)
 
@@ -57,19 +57,17 @@ No Brasil há o [Projeto de Lei 192/21](https://www.camara.leg.br/noticias/72808
 
 Trata-se de produto purificador de água livremente comercializado no Brasil, como por exemplo pelas empresas: [Prana-Luz](https://www.purificadordeagua.shop) e [Loja Química](https://www.lojaquimica.com.br/kits-kit-mms-clorito-de-sodio-acido-cloridrico).
 
-A Coalizão Mundial Sáude e Vida - [COMUSAV](https://comusav.com/pt/) formada por mais de 5000 médicos e profissionais da saúde de vários paises, que utilizam o CDS em seus tratamentos, também oferece muitas publicações a respeito em seu site. [Conferência COMUSAV "LA BIOENERGÉTICA Y EXPERIENCIA CON CÁNCER", realizada em 07 de maio de 2022](https://www.facebook.com/watch/live/?ref=watch_permalink&v=549351513484506).
+A Coalizão Mundial Sáude e Vida - [COMUSAV](https://comusav.com/pt/) formada por mais de 5000 médicos e profissionais da saúde de vários paises, que utilizam o CDS em seus tratamentos, também oferece muitas publicações a respeito em seu site. [Conferência COMUSAV "LA BIOENERGÉTICA Y EXPERIENCIA CON CÁNCER", realizada em 07 de maio de 2022](https://comusav.com/pt/especial-cancer/).
 
 ### OUTRAS INFORMAÇÕES SOBRE O MMS E CDS:
 
 ### [The Universal Antidote Interactive Reference Guidebook (download)](https://theuniversalantidote.com/wp-content/uploads/2021/02/The-Universal-Antidote-Interactive-Reference-Guidebook.pdf) 
 
-### [DOCUMENTÁRIO SOBRE DIÓXIDO DE CLORO](https://www.brighteon.com/8197896d-c382-4909-87dc-d4d439fa3b51)
+### [DOCUMENTÁRIO SOBRE DIÓXIDO DE CLORO](https://www.brighteon.com/d1037583-d587-43f2-b1be-2728ffc560a6)
 
 ### [TESTEMUNH0 DE CURA COM MMS/CDS DE CÂNCER NOS OSSOS COM METASTASE PULMÃO (estadio 5) ENTREVISTA CONCEDIDA A ANDREAS KALCKER](https://www.brighteon.com/58475df1-55ed-4ebd-878b-12c3e66c67e4)
 
 ### [DIÓXIDO DE CLORO - DR. LAIR RIBEIRO](https://www.brighteon.com/c69756e9-4793-47f6-a035-09a3f487b327)
-
-### [CANAL DIOXIDO DE CLORO BRASIL](https://www.brighteon.com/channels/clo2brasil)
 
 ### [DR. MANUEL APARICIO ALONSO (COMUSAV) - CDS DOSAGEM PEDIÁTRICA](https://www.brighteon.com/1b5e9399-1c10-48ff-a3eb-174a533976e6)
 
