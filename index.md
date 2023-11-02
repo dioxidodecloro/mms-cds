@@ -43,7 +43,7 @@ O gás DIÓXIDO DE CLORO para uso no tratamento de infecção por vírus respira
 
 ## [ESTUDOS CLÍNICOS COM DIÓXIDO DE CLORO](https://andreaskalcker.com/coronavirus/estudio-clinico-con-dioxido-de-cloro.html)
 
-No Brasil, o dióxido de Cloro é comercializado livremente pois o Ministério de saúde autoriza a aplicação de dióxido de cloro, no tratamento da água de consumo humano para torná-la potável, conforme disposto no Artigo 32 da [Portaria MS Nº 2914 DE 12/12/2011](https://www.gov.br/agricultura/pt-br/assuntos/inspecao/produtos-vegetal/legislacao-1/biblioteca-de-normas-vinhos-e-bebidas/portaria-no-2-914-de-12-de-dezembro-de-2011.pdf/@@download/file/portaria-no-2-914-de-12-de-dezembro-de-2011.pdf).
+No Brasil, o dióxido de Cloro é comercializado livremente pois o Ministério de saúde autoriza a aplicação de dióxido de cloro, no tratamento da água de consumo humano para torná-la potável, conforme disposto no Artigo 32 da [Portaria MS Nº 2914 DE 12/12/2011](https://bvsms.saude.gov.br/bvs/saudelegis/gm/2011/prt2914_12_12_2011.html).
 
 Estudo desenvolvido por: Dra. Angela Di Bernardo Dantas, Dr. Luiz Di Bernardo e Dra. Cristina Paschoalato sobre [DIÓXIDO DE CLORO NO TRATAMENTO DE ÁGUA](https://site.sabesp.com.br/site/uploads/File/audiencias_inova%C3%A7%E2%95%9Eo/Di%C3%B3xido%20de%20cloro%20no%20tratamento%20da%20%C3%A1gua.pdf)
 
