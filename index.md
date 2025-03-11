@@ -14,16 +14,19 @@
 - [**Legislação e Regulamentação**](#legislacao-e-regulamentacao)
 - [**Outras Informações**](#outras-informacoes)
 
+
 ---
 
-## Introdução
+## **Introdução**
+<a id="introducao"></a>
 O **MMS (Master Mineral Solution)** e o **CDS (Chlorine Dioxide Solution)** são soluções amplamente discutidas na comunidade científica e médica devido ao seu potencial uso em diversas condições de saúde.
 
 O **[Dr. Lair Ribeiro](https://lairribeiro.com.br/){:target="_blank"}** em sua **[aula](https://www.brighteon.com/c69756e9-4793-47f6-a035-09a3f487b327){:target="_blank"}** apresentou informações sobre a atuação do dióxido de cloro na saúde, incluindo relatos e estudos sobre seus benefícios.
 
 ---
 
-## Histórico e Descoberta
+## **Histórico e Descoberta**
+<a id="historico-e-descoberta"></a>
 O dióxido de cloro foi primeiramente utilizado para tratamentos de saúde pelo pesquisador **Jim Humble**, que descobriu seu potencial em 1996. Posteriormente, o biofísico **Dr. Andreas Kalcker** desenvolveu novas aplicações e protocolos baseados em suas experiências e estudos.
 
 Mais detalhes podem ser encontrados em:
@@ -34,10 +37,11 @@ Mais detalhes podem ser encontrados em:
 
 ---
 
-## Protocolos de Uso
+## **Protocolos de Uso**
+<a id="protocolos-de-uso"></a>
 O **Dr. Andreas Kalcker** descreveu vários protocolos para diferentes aplicações do MMS/CDS. Abaixo está a lista completa:
 
-### **Principais Protocolos**
+## Principais protocolos
 - **[Protocolo A: Tratamento Principal para Insuficiência Cardíaca](https://www.brighteon.com/58ff10da-d540-46f2-a9ce-4f7f10c6a2ed){:target="_blank"}**
 - **[Protocolo B: Básico (Protocolo 1000) - O mais utilizado](https://www.brighteon.com/1433d7cd-e7d6-4bf5-96ce-b7b5812bae2c){:target="_blank"}**
 - **[Protocolo C: CDS - Equivalente ao Protocolo 101](https://www.brighteon.com/0aed17f9-57bf-4fed-92af-0d071ae488ca){:target="_blank"}**
@@ -56,13 +60,15 @@ O **DMSO (Dimetilsulfóxido)** pode ser utilizado em conjunto com o protocolo MM
 
 ---
 
-## Pesquisas Científicas e Evidências
+## **Pesquisas Científicas e Evidências**
+<a id="pesquisas-cientificas-e-evidencias"></a>
 - **[Inibição da ligação da proteína Spike do SARS-CoV-2 pelo ClO₂](http://www.remedypublications.com/open-access/inhibition-of-the-binding-of-variants-of-sars-cov-2-coronavirus-spike-7364.pdf){:target="_blank"}**
 - **[Estudo clínico sobre ClO₂ no tratamento da COVID-19](https://www.academia.edu/49035123/Determination_of_the_Effectiveness_of_Chlorine_Dioxide_in_the_Treatment_of_COVID_19){:target="_blank"}**
 
 ---
 
-## Legislação e Regulamentação
+## **Legislação e Regulamentação**
+<a id="legislacao-e-regulamentacao"></a>
 - **[Patente Europeia sobre uso do Dióxido de Cloro para tratamento de infecção por vírus respiratório - EP1955719B1](https://patentimages.storage.googleapis.com/2d/85/b8/d4000ff982031b/EP1955719B1.pdf){:target="_blank"}**
 - **[Portaria MS Nº 2914/2011](https://bvsms.saude.gov.br/bvs/saudelegis/gm/2011/prt2914_12_12_2011.html){:target="_blank"}**
 - **[Lei nº 1351/2020 (Bolívia)](http://www.gacetaoficialdebolivia.gob.bo/edicions/view/1336NEC){:target="_blank"}**
@@ -70,7 +76,8 @@ O **DMSO (Dimetilsulfóxido)** pode ser utilizado em conjunto com o protocolo MM
 
 ---
 
-## Outras Informações
+## **Outras Informações**
+<a id="outras-informacoes"></a>
 - **[Guia Interativo Universal Antidote (Download)](https://theuniversalantidote.com/wp-content/uploads/2021/02/The-Universal-Antidote-Interactive-Reference-Guidebook.pdf){:target="_blank"}**
 - **[Documentário sobre Dióxido de Cloro](https://www.brighteon.com/d1037583-d587-43f2-b1be-2728ffc560a6){:target="_blank"}**
 - **[Testemunho de cura de câncer nos ossos com MMS/CDS](https://www.brighteon.com/58475df1-55ed-4ebd-878b-12c3e66c67e4){:target="_blank"}**
