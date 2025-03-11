@@ -27,10 +27,10 @@ O [Dr. Lair Ribeiro](https://lairribeiro.com.br/) em sua [aula](https://www.brig
 O dióxido de cloro foi primeiramente utilizado para tratamentos de saúde pelo pesquisador **Jim Humble**, que descobriu seu potencial em 1996. Posteriormente, o biofísico **Dr. Andreas Kalcker** desenvolveu novas aplicações e protocolos baseados em suas experiências e estudos.
 
 Mais detalhes podem ser encontrados em:
-- **[Palestra do Dr. Andreas Kalcker: MMS - CDS: NOVOS HORIZONTES NO CAMINHO DA CURA](https://www.brighteon.com/6b032b5f-684c-4e83-962b-a4f13f2d4ac6)**
-- **[Saúde Proibida - Nada é Incurável (Livro)](https://doceru.com/show/?q=saúde+proibida&ext=pdf)**
-- **[Site oficial de Andreas Kalcker](https://andreaskalcker.com/pt/)**
-- **[Site oficial de Jim Humble](https://jimhumble.co/)**
+- **[Palestra do Dr. Andreas Kalcker: MMS - CDS: NOVOS HORIZONTES NO CAMINHO DA CURA](https://www.brighteon.com/6b032b5f-684c-4e83-962b-a4f13f2d4ac6){:target="_blank"}**
+- **[Saúde Proibida - Nada é Incurável (Livro)](https://doceru.com/show/?q=saúde+proibida&ext=pdf){:target="_blank"}**
+- **[Site oficial de Andreas Kalcker](https://andreaskalcker.com/pt/){:target="_blank"}**
+- **[Site oficial de Jim Humble](https://jimhumble.co/){:target="_blank"}**
 
 ---
 
