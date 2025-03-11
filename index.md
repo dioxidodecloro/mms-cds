@@ -1,3 +1,9 @@
+<style>
+    #forkme_banner {
+        display: none !important;
+    }
+</style>
+
 # MMS (MASTER MINERAL SOLUTION) & CDS (CHLORINE DIOXIDE SOLUTION)
 
 ## Índice
