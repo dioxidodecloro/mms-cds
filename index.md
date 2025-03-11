@@ -38,40 +38,40 @@ Mais detalhes podem ser encontrados em:
 O **Dr. Andreas Kalcker** descreveu vários protocolos para diferentes aplicações do MMS/CDS. Abaixo está a lista completa:
 
 ### **Principais Protocolos**
-- **[Protocolo A: Tratamento Principal para Insuficiência Cardíaca](https://www.brighteon.com/58ff10da-d540-46f2-a9ce-4f7f10c6a2ed)**
-- **[Protocolo B: Básico (Protocolo 1000) - O mais utilizado](https://www.brighteon.com/1433d7cd-e7d6-4bf5-96ce-b7b5812bae2c)**
-- **[Protocolo C: CDS - Equivalente ao Protocolo 101](https://www.brighteon.com/0aed17f9-57bf-4fed-92af-0d071ae488ca)**
-- **[Protocolo D: Dermatológico - Aplicação sobre a pele](https://www.brighteon.com/8a11fe40-6a09-4608-8613-12e28c5cab2c)**
-- **[Protocolo E: Clister - Lavagem intestinal](https://www.brighteon.com/ed8063ea-4ae2-4699-9973-426bdace3294)**
-- **[Protocolo F: Frequente - Antigo Protocolo Vírico 115](https://www.brighteon.com/0da584fb-27a2-4c94-99fd-fa2c2b2f5c02)**
-- **[Protocolo G: Gás - Apenas uso do gás dióxido de cloro](https://www.brighteon.com/aced5961-99db-4b48-9571-ed5053d78377)**
-- **[Protocolo H: Habitação - Prevenção de contágios](https://www.brighteon.com/adba3fcc-2fd2-4f83-8c05-96924525d2cc)**
-- **[Protocolo I: Insetos e Picadas](https://www.brighteon.com/52a65d3e-1995-4140-9c07-7fd1bafcf3e2)**
-- **[Protocolo J: Gargarejar e Enxaguar](https://www.brighteon.com/a385c4d4-f5c2-467f-8abb-fc9cc4e722af)**
-- **[Protocolo K: Kit - Uso combinado com DMSO](https://www.brighteon.com/4a4382ce-691a-46a1-b574-fdd54b7f7b85)**
+- **[Protocolo A: Tratamento Principal para Insuficiência Cardíaca](https://www.brighteon.com/58ff10da-d540-46f2-a9ce-4f7f10c6a2ed){:target="_blank"}**
+- **[Protocolo B: Básico (Protocolo 1000) - O mais utilizado](https://www.brighteon.com/1433d7cd-e7d6-4bf5-96ce-b7b5812bae2c){:target="_blank"}**
+- **[Protocolo C: CDS - Equivalente ao Protocolo 101](https://www.brighteon.com/0aed17f9-57bf-4fed-92af-0d071ae488ca){:target="_blank"}**
+- **[Protocolo D: Dermatológico - Aplicação sobre a pele](https://www.brighteon.com/8a11fe40-6a09-4608-8613-12e28c5cab2c){:target="_blank"}**
+- **[Protocolo E: Clister - Lavagem intestinal](https://www.brighteon.com/ed8063ea-4ae2-4699-9973-426bdace3294){:target="_blank"}**
+- **[Protocolo F: Frequente - Antigo Protocolo Vírico 115](https://www.brighteon.com/0da584fb-27a2-4c94-99fd-fa2c2b2f5c02){:target="_blank"}**
+- **[Protocolo G: Gás - Apenas uso do gás dióxido de cloro](https://www.brighteon.com/aced5961-99db-4b48-9571-ed5053d78377){:target="_blank"}**
+- **[Protocolo H: Habitação - Prevenção de contágios](https://www.brighteon.com/adba3fcc-2fd2-4f83-8c05-96924525d2cc){:target="_blank"}**
+- **[Protocolo I: Insetos e Picadas](https://www.brighteon.com/52a65d3e-1995-4140-9c07-7fd1bafcf3e2){:target="_blank"}**
+- **[Protocolo J: Gargarejar e Enxaguar](https://www.brighteon.com/a385c4d4-f5c2-467f-8abb-fc9cc4e722af){:target="_blank"}**
+- **[Protocolo K: Kit - Uso combinado com DMSO](https://www.brighteon.com/4a4382ce-691a-46a1-b574-fdd54b7f7b85){:target="_blank"}**
 
 ### **DMSO (Dimetilsulfóxido)**
 O **DMSO (Dimetilsulfóxido)** pode ser utilizado em conjunto com o protocolo MMS/CDS para potencializar seus efeitos:
-- **[DMSO - O que é e para que serve? / Protocolo 1000+](https://www.brighteon.com/fff0154c-7741-4f0b-b393-b0d99a5257b2)**
+- **[DMSO - O que é e para que serve? / Protocolo 1000+](https://www.brighteon.com/fff0154c-7741-4f0b-b393-b0d99a5257b2){:target="_blank"}**
 
 ---
 
 ## Pesquisas Científicas e Evidências
-- **[Inibição da ligação da proteína Spike do SARS-CoV-2 pelo ClO₂](http://www.remedypublications.com/open-access/inhibition-of-the-binding-of-variants-of-sars-cov-2-coronavirus-spike-7364.pdf)**
-- **[Estudo clínico sobre ClO₂ no tratamento da COVID-19](https://www.academia.edu/49035123/Determination_of_the_Effectiveness_of_Chlorine_Dioxide_in_the_Treatment_of_COVID_19)**
+- **[Inibição da ligação da proteína Spike do SARS-CoV-2 pelo ClO₂](http://www.remedypublications.com/open-access/inhibition-of-the-binding-of-variants-of-sars-cov-2-coronavirus-spike-7364.pdf){:target="_blank"}**
+- **[Estudo clínico sobre ClO₂ no tratamento da COVID-19](https://www.academia.edu/49035123/Determination_of_the_Effectiveness_of_Chlorine_Dioxide_in_the_Treatment_of_COVID_19){:target="_blank"}**
 
 ---
 
 ## Legislação e Regulamentação
 - **[Patente Europeia sobre uso do Dióxido de Cloro para tratamento de infecção por vírus respiratório - EP1955719B1](https://patentimages.storage.googleapis.com/2d/85/b8/d4000ff982031b/EP1955719B1.pdf){:target="_blank"}**
-- **[Portaria MS Nº 2914/2011](https://bvsms.saude.gov.br/bvs/saudelegis/gm/2011/prt2914_12_12_2011.html)**
-- **[Lei nº 1351/2020 (Bolívia)](http://www.gacetaoficialdebolivia.gob.bo/edicions/view/1336NEC)**
-- **[Projeto de Lei 192/21 (Brasil)](https://www.camara.leg.br/noticias/728085-PROJETO-OBRIGA-SERVICOS-DE-SAUDE-A-FORNECER-DIOXIDO-DE-CLORO-PARA-TRATAR-A-COVID-19)**
+- **[Portaria MS Nº 2914/2011](https://bvsms.saude.gov.br/bvs/saudelegis/gm/2011/prt2914_12_12_2011.html){:target="_blank"}**
+- **[Lei nº 1351/2020 (Bolívia)](http://www.gacetaoficialdebolivia.gob.bo/edicions/view/1336NEC){:target="_blank"}**
+- **[Projeto de Lei 192/21 (Brasil)](https://www.camara.leg.br/noticias/728085-PROJETO-OBRIGA-SERVICOS-DE-SAUDE-A-FORNECER-DIOXIDO-DE-CLORO-PARA-TRATAR-A-COVID-19){:target="_blank"}**
 
 ---
 
 ## Outras Informações
-- **[Guia Interativo Universal Antidote (Download)](https://theuniversalantidote.com/wp-content/uploads/2021/02/The-Universal-Antidote-Interactive-Reference-Guidebook.pdf)**
-- **[Documentário sobre Dióxido de Cloro](https://www.brighteon.com/d1037583-d587-43f2-b1be-2728ffc560a6)**
-- **[Testemunho de cura de câncer nos ossos com MMS/CDS](https://www.brighteon.com/58475df1-55ed-4ebd-878b-12c3e66c67e4)**
+- **[Guia Interativo Universal Antidote (Download)](https://theuniversalantidote.com/wp-content/uploads/2021/02/The-Universal-Antidote-Interactive-Reference-Guidebook.pdf){:target="_blank"}**
+- **[Documentário sobre Dióxido de Cloro](https://www.brighteon.com/d1037583-d587-43f2-b1be-2728ffc560a6){:target="_blank"}**
+- **[Testemunho de cura de câncer nos ossos com MMS/CDS](https://www.brighteon.com/58475df1-55ed-4ebd-878b-12c3e66c67e4){:target="_blank"}**
 
