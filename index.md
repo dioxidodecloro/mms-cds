@@ -7,12 +7,12 @@
 # MMS (MASTER MINERAL SOLUTION) & CDS (CHLORINE DIOXIDE SOLUTION)
 
 ## Índice
-- [Introdução](#introducao)
-- [Histórico e Descoberta](#historico-e-descoberta)
-- [Protocolos de Uso](#protocolos-de-uso)
-- [Pesquisas Científicas e Evidências](#pesquisas-cientificas-e-evidencias)
-- [Legislação e Regulamentação](#legislacao-e-regulamentacao)
-- [Outras Informações](#outras-informacoes)
+- **[Introdução](#introducao)**
+- **[Histórico e Descoberta](#historico-e-descoberta)**
+- **[Protocolos de Uso](#protocolos-de-uso)**
+- **[Pesquisas Científicas e Evidências](#pesquisas-cientificas-e-evidencias)**
+- **[Legislação e Regulamentação](#legislacao-e-regulamentacao)**
+- **[Outras Informações](#outras-informacoes)**
 
 ---
 
