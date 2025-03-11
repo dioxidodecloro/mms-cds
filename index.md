@@ -63,7 +63,7 @@ O **DMSO (Dimetilsulfóxido)** pode ser utilizado em conjunto com o protocolo MM
 ---
 
 ## Legislação e Regulamentação
-- **[Patente Europeia sobre uso do Dióxido de Cloro para tratamento de infecção por vírus respiratório - EP1955719B1](https://patentimages.storage.googleapis.com/2d/85/b8/d4000ff982031b/EP1955719B1.pdf)**{:target="_blank"}
+- **[Patente Europeia sobre uso do Dióxido de Cloro para tratamento de infecção por vírus respiratório - EP1955719B1](https://patentimages.storage.googleapis.com/2d/85/b8/d4000ff982031b/EP1955719B1.pdf){:target="_blank"}**
 - **[Portaria MS Nº 2914/2011](https://bvsms.saude.gov.br/bvs/saudelegis/gm/2011/prt2914_12_12_2011.html)**
 - **[Lei nº 1351/2020 (Bolívia)](http://www.gacetaoficialdebolivia.gob.bo/edicions/view/1336NEC)**
 - **[Projeto de Lei 192/21 (Brasil)](https://www.camara.leg.br/noticias/728085-PROJETO-OBRIGA-SERVICOS-DE-SAUDE-A-FORNECER-DIOXIDO-DE-CLORO-PARA-TRATAR-A-COVID-19)**
