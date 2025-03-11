@@ -19,7 +19,7 @@
 ## Introdução
 O **MMS (Master Mineral Solution)** e o **CDS (Chlorine Dioxide Solution)** são soluções amplamente discutidas na comunidade científica e médica devido ao seu potencial uso em diversas condições de saúde.
 
-O [Dr. Lair Ribeiro](https://lairribeiro.com.br/) em sua [aula](https://www.brighteon.com/c69756e9-4793-47f6-a035-09a3f487b327) apresentou informações sobre a atuação do dióxido de cloro na saúde, incluindo relatos e estudos sobre seus benefícios.
+O **[Dr. Lair Ribeiro](https://lairribeiro.com.br/){:target="_blank"}** em sua **[aula](https://www.brighteon.com/c69756e9-4793-47f6-a035-09a3f487b327){:target="_blank"}** apresentou informações sobre a atuação do dióxido de cloro na saúde, incluindo relatos e estudos sobre seus benefícios.
 
 ---
 
