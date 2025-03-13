@@ -82,10 +82,9 @@ A legislação sobre o dióxido de cloro varia entre diferentes países e aplica
 - **[Na Bolívia, foi aprovada uma lei permitindo o uso do dióxido de cloro para tratamento de doenças, incluindo COVID-19 - Lei nº 1351/2020 (Bolívia)](http://www.gacetaoficialdebolivia.gob.bo/edicions/view/1336NEC){:target="_blank"}**
 - **[FDA (Food and Drug Administration - EUA) - Aprovação do DMSO apenas para tratamento de cistite intersticial](https://www.fda.gov/news-events/press-announcements){:target="_blank"}**  
 - **[EPA (United States Environmental Protection Agency) - Regulamentação do DMSO para usos industriais e ambientais](https://www.epa.gov/){:target="_blank"}**  
-- **[BfArM (Alemanha) - O DMSO não é aprovado como medicamento, mas pode ser manipulado em farmácias](https://de.wikipedia.org/wiki/Dimethylsulfoxid){:target="_blank"}**  
-- **[Suíça - DMSO é aprovado apenas em combinação com outros ingredientes ativos](https://de.wikipedia.org/wiki/Dimethylsulfoxid){:target="_blank"}**  
-- **[Áustria - DMSO disponível em géis anti-inflamatórios de uso tópico](https://de.wikipedia.org/wiki/Dimethylsulfoxid){:target="_blank"}**  
-
+- **[BfArM (Alemanha) - O DMSO não é aprovado como medicamento, mas pode ser manipulado em farmácias](https://www.bfarm.de/EN/Home/home_node.html){:target="_blank"}**  
+- **[Suíça - DMSO é aprovado apenas em combinação com outros ingredientes ativos](https://www.swissmedic.ch/swissmedic/en/home.html){:target="_blank"}**  
+- **[Áustria - DMSO disponível em géis anti-inflamatórios de uso tópico](https://www.basg.gv.at/en/){:target="_blank"}**  
 ---
 
 ## **Outras Informações**
