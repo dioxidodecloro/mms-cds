@@ -56,7 +56,7 @@ O **Dr. Andreas Kalcker** descreveu vários protocolos para diferentes aplicaç�
 - **[Protocolo K: Kit - Uso combinado com DMSO](https://www.brighteon.com/4a4382ce-691a-46a1-b574-fdd54b7f7b85){:target="_blank"}**
 
 ### **DMSO (Dimetilsulfóxido)**
-O **DMSO (Dimetilsulfóxido)** pode ser utilizado em conjunto com o protocolo MMS/CDS para potencializar seus efeitos:
+O **Dimetilsulfóxido (DMSO)** é um composto organossulfurado com diversas aplicações, desde solvente industrial até uso médico e pode ser utilizado em conjunto com o protocolo MMS/CDS para potencializar seus efeitos:
 - **[DMSO - O que é e para que serve? / Protocolo 1000+](https://www.brighteon.com/fff0154c-7741-4f0b-b393-b0d99a5257b2){:target="_blank"}**
 
 ---
@@ -88,6 +88,7 @@ A legislação sobre o dióxido de cloro varia entre diferentes países e aplica
 - **[Guia Interativo Universal Antidote (Download)](https://theuniversalantidote.com/wp-content/uploads/2021/02/The-Universal-Antidote-Interactive-Reference-Guidebook.pdf){:target="_blank"}**
 - **[Documentário sobre Dióxido de Cloro](https://www.brighteon.com/d1037583-d587-43f2-b1be-2728ffc560a6){:target="_blank"}**
 - **[Testemunho de cura de câncer nos ossos com MMS/CDS](https://www.brighteon.com/58475df1-55ed-4ebd-878b-12c3e66c67e4){:target="_blank"}**
+- **[O Incrível Poder do DMSO no Tratamento de Doenças - Vídeo Explicativo](https://www.youtube.com/watch?v=yLDapJNmcA8){:target="_blank"}**  
 
   ---
 
