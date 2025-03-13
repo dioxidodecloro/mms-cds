@@ -77,9 +77,14 @@ Diversos estudos demonstram a eficácia do dióxido de cloro no tratamento de do
 <a id="legislacao-e-regulamentacao"></a>
 A legislação sobre o dióxido de cloro varia entre diferentes países e aplicações. Abaixo estão algumas normas e regulamentos que abordam seu uso:
 - **[A patente europeia EP1955719B1 reconhece o uso do dióxido de cloro para o tratamento de infecções por vírus respiratórios](https://patentimages.storage.googleapis.com/2d/85/b8/d4000ff982031b/EP1955719B1.pdf){:target="_blank"}**
-- **[EPA - United States Environmental Protection Agency: Diretrizes sobre o uso de dióxido de cloro no tratamento de água potável](http://nepis.epa.gov/Exe/ZyPDF.cgi/9101AV5S.PDF?Dockey=9101AV5S.PDF){:target="_blank"}**
+- **[EPA (United States Environmental Protection Agency) - Diretrizes sobre o uso de dióxido de cloro no tratamento de água potável](http://nepis.epa.gov/Exe/ZyPDF.cgi/9101AV5S.PDF?Dockey=9101AV5S.PDF){:target="_blank"}**
 - **[No Brasil, o dióxido de cloro é autorizado para purificação da água potável, conforme estabelecido pelo Ministério da Saúde - Portaria MS Nº 2914/2011](https://bvsms.saude.gov.br/bvs/saudelegis/gm/2011/prt2914_12_12_2011.html){:target="_blank"}**
 - **[Na Bolívia, foi aprovada uma lei permitindo o uso do dióxido de cloro para tratamento de doenças, incluindo COVID-19 - Lei nº 1351/2020 (Bolívia)](http://www.gacetaoficialdebolivia.gob.bo/edicions/view/1336NEC){:target="_blank"}**
+- **[FDA (Food and Drug Administration - EUA) - Aprovação do DMSO apenas para tratamento de cistite intersticial](https://www.fda.gov/news-events/press-announcements){:target="_blank"}**  
+- **[EPA (United States Environmental Protection Agency) - Regulamentação do DMSO para usos industriais e ambientais](https://www.epa.gov/){:target="_blank"}**  
+- **[BfArM (Alemanha) - O DMSO não é aprovado como medicamento, mas pode ser manipulado em farmácias](https://de.wikipedia.org/wiki/Dimethylsulfoxid){:target="_blank"}**  
+- **[Suíça - DMSO é aprovado apenas em combinação com outros ingredientes ativos](https://de.wikipedia.org/wiki/Dimethylsulfoxid){:target="_blank"}**  
+- **[Áustria - DMSO disponível em géis anti-inflamatórios de uso tópico](https://de.wikipedia.org/wiki/Dimethylsulfoxid){:target="_blank"}**  
 
 ---
 
