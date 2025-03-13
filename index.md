@@ -63,8 +63,7 @@ O **DMSO (Dimetilsulfóxido)** pode ser utilizado em conjunto com o protocolo MM
 
 ## **Pesquisas Científicas e Evidências**
 <a id="pesquisas-cientificas-e-evidencias"></a>
-
-### Diversos estudos demonstram a eficácia do dióxido de cloro no tratamento de doenças:
+Diversos estudos demonstram a eficácia do dióxido de cloro no tratamento de doenças:
 - **[Estudo que avalia a inibição da ligação de variantes do coronavírus SARS-CoV-2 a receptores humanos por meio do dióxido de cloro - Inhibition of the Binding of Variants of SARS-CoV-2 Coronavirus Spike Protein to a Human Receptor by Chlorine Dioxide](http://www.remedypublications.com/open-access/inhibition-of-the-binding-of-variants-of-sars-cov-2-coronavirus-spike-7364.pdf){:target="_blank"}**  
 - **[Pesquisa sobre a eficácia do dióxido de cloro no tratamento da COVID-19 - Determination of the Effectiveness of Chlorine Dioxide in the Treatment of COVID-19](https://www.academia.edu/49035123/Determination_of_the_Effectiveness_of_Chlorine_Dioxide_in_the_Treatment_of_COVID_19){:target="_blank"}**  
 - **[Versão em espanhol da pesquisa sobre eficácia do dióxido de cloro no tratamento da COVID-19 - Determinación de la Eficacia del Dióxido de Cloro en el Tratamiento de COVID-19](https://www.bibliotecapleyades.net/archivos_pdf/determinación-eficacia-dióxidocloro-covid19.pdf){:target="_blank"}**  
@@ -78,6 +77,7 @@ O **DMSO (Dimetilsulfóxido)** pode ser utilizado em conjunto com o protocolo MM
 <a id="legislacao-e-regulamentacao"></a>
 A legislação sobre o dióxido de cloro varia entre diferentes países e aplicações. Abaixo estão algumas normas e regulamentos que abordam seu uso:
 - **[A patente europeia EP1955719B1 reconhece o uso do dióxido de cloro para o tratamento de infecções por vírus respiratórios](https://patentimages.storage.googleapis.com/2d/85/b8/d4000ff982031b/EP1955719B1.pdf){:target="_blank"}**
+- **[EPA - United States Environmental Protection Agency: Diretrizes sobre o uso de dióxido de cloro no tratamento de água potável](http://nepis.epa.gov/Exe/ZyPDF.cgi/9101AV5S.PDF?Dockey=9101AV5S.PDF){:target="_blank"}**
 - **[No Brasil, o dióxido de cloro é autorizado para purificação da água potável, conforme estabelecido pelo Ministério da Saúde - Portaria MS Nº 2914/2011](https://bvsms.saude.gov.br/bvs/saudelegis/gm/2011/prt2914_12_12_2011.html){:target="_blank"}**
 - **[Na Bolívia, foi aprovada uma lei permitindo o uso do dióxido de cloro para tratamento de doenças, incluindo COVID-19 - Lei nº 1351/2020 (Bolívia)](http://www.gacetaoficialdebolivia.gob.bo/edicions/view/1336NEC){:target="_blank"}**
 
