@@ -87,6 +87,8 @@ A legislação sobre o dióxido de cloro varia entre diferentes países e aplica
 
 ## **Outras Informações**
 <a id="outras-informacoes"></a>
+- **[Leandro MMS - Curando a DENGUE e a Dengue Hemorrágica de forma eficaz](https://www.bitchute.com/video/rfMNDv97Ic8I/){:target="_blank"}**
+- **[Leandro MMS - MMS para ANIMAIS - Como tratar animais com o MMS?](https://www.bitchute.com/video/CHPJ1GgDOHxx){:target="_blank"}**
 - **[Durante a pandemia de COVID-19, Germaín Caballero Vargas - prefeito de San José de Chiquitos - Bolívia, promove distribuição de dióxido de cloro aos cidadãos.](https://www.brighteon.com/9b486b4a-7f58-40ea-819f-d3b17a9d7bec){:target="_blank"}**
 - **[Testemunho de Germaín Caballero Vargas - prefeito de San José de Chiquitos sobre o êxito da aplicação de dióxido de cloro para salvar vidas na pandemia de COVID-19](https://www.facebook.com/boliviaelpaisqueconstruimos/videos/municipio-san-jose-de-chiquitos-determina-uso-de-dioxido-de-cloro-contra-el-coro/567398123956671/){:target="_blank"}**
 - **[Guia Interativo Universal Antidote (Download)](https://theuniversalantidote.com/wp-content/uploads/2021/02/The-Universal-Antidote-Interactive-Reference-Guidebook.pdf){:target="_blank"}**
