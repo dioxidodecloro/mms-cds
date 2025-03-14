@@ -87,6 +87,7 @@ A legislação sobre o dióxido de cloro varia entre diferentes países e aplica
 
 ## **Outras Informações**
 <a id="outras-informacoes"></a>
+- **[Como o Dióxido de Cloro reage e está sendo utilizado há mais de 100 anos como o melhor Purificador para Água.](https://www.brighteon.com/dashboard/videos/889cad0c-e805-4121-9b35-9cd20632da76){:target="_blank"}**
 - **[Leandro MMS - Curando a DENGUE e a Dengue Hemorrágica de forma eficaz](https://www.bitchute.com/video/rfMNDv97Ic8I/){:target="_blank"}**
 - **[Leandro MMS - MMS para ANIMAIS - Como tratar animais com o MMS?](https://www.bitchute.com/video/CHPJ1GgDOHxx){:target="_blank"}**
 - **[Durante a pandemia de COVID-19, Germaín Caballero Vargas - prefeito de San José de Chiquitos - Bolívia, promove distribuição de dióxido de cloro aos cidadãos.](https://www.brighteon.com/9b486b4a-7f58-40ea-819f-d3b17a9d7bec){:target="_blank"}**
