@@ -28,6 +28,7 @@ O **[Dr. Lair Ribeiro](https://lairribeiro.com.br/){:target="_blank"}** em sua *
 
 ## **Histórico e Descoberta**
 <a id="historico-e-descoberta"></a>
+Em 1944 na cidade de Niágara (USA) foi relatada pela primeira vez a aplicação de **[dióxido de cloro](https://www.sabaraquimicos.com/blog/dioxido-de-cloro-ganha-destaque-em-estacoes-de-tratamento-de-agua-no-brasil.php){:target="_blank"}** para tratamento de água. 
 O dióxido de cloro foi primeiramente utilizado para tratamentos de saúde pelo pesquisador **Jim Humble**, que descobriu seu potencial em 1996. Posteriormente, o biofísico **Dr. Andreas Kalcker** desenvolveu novas aplicações e protocolos baseados em suas experiências e estudos.
 
 Mais detalhes podem ser encontrados em:
