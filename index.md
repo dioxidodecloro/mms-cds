@@ -32,7 +32,7 @@ O dióxido de cloro foi primeiramente utilizado para tratamentos de saúde pelo 
 
 Mais detalhes podem ser encontrados em:
 - **[Palestra do Dr. Andreas Kalcker: MMS - CDS: NOVOS HORIZONTES NO CAMINHO DA CURA](https://www.brighteon.com/6b032b5f-684c-4e83-962b-a4f13f2d4ac6){:target="_blank"}**
-- **[Saúde Proibida - Nada é Incurável (Livro)](https://doceru.com/show/?q=saúde+proibida&ext=pdf){:target="_blank"}**
+- **[Saúde Proibida - Nada é Incurável (Livro)](https://pt.scribd.com/document/468003906/Saude-proibida-pdf){:target="_blank"}**
 - **[Site oficial de Andreas Kalcker em português](https://andreaskalcker.com/pt-pt/pagina-inicial/){:target="_blank"}**
 - **[Site oficial de Jim Humble](https://jimhumble.co/){:target="_blank"}**
 
