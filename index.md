@@ -40,7 +40,7 @@ Mais detalhes podem ser encontrados em:
 
 ## **Protocolos de Uso**
 <a id="protocolos-de-uso"></a>
-O **Dr. Andreas Kalcker** descreveu vários protocolos para diferentes aplicações do MMS/CDS. Abaixo está a lista completa:
+O **Dr. Andreas Kalcker** descreveu vários protocolos para diferentes aplicações do MMS/CDS. Abaixo está a lista dos protocolos explicados em detalhes no canal Leandro - MMS da plataforma de compartilhamento de vídeo Brighteon:
 
 ## Principais protocolos
 - **[Protocolo A: Tratamento Principal para Insuficiência Cardíaca](https://www.brighteon.com/58ff10da-d540-46f2-a9ce-4f7f10c6a2ed){:target="_blank"}**
