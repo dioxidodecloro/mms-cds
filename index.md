@@ -96,7 +96,8 @@ A legislação sobre o dióxido de cloro varia entre diferentes países e aplica
 - **[Guia Interativo Universal Antidote (Download)](https://theuniversalantidote.com/wp-content/uploads/2021/02/The-Universal-Antidote-Interactive-Reference-Guidebook.pdf){:target="_blank"}**
 - **[Documentário sobre Dióxido de Cloro](https://www.brighteon.com/d1037583-d587-43f2-b1be-2728ffc560a6){:target="_blank"}**
 - **[Testemunho de cura de câncer nos ossos com MMS/CDS](https://www.brighteon.com/58475df1-55ed-4ebd-878b-12c3e66c67e4){:target="_blank"}**
-- **[O Incrível Poder do DMSO no Tratamento de Doenças - Vídeo Explicativo](https://www.youtube.com/watch?v=yLDapJNmcA8){:target="_blank"}**  
+- **[O Incrível Poder do DMSO no Tratamento de Doenças - Vídeo Explicativo](https://www.youtube.com/watch?v=yLDapJNmcA8){:target="_blank"}**
+- **[DMSO® Injetável é um anti-inflamatório indicado para dor e edema em tecidos musculoesqueléticos e viscerais em equinos, registro no Ministério da Agricultura, Pecuária e Abastecimento (MAPA) nº SP 000139-0.000006](https://vetnil.com.br/produto/dmso-r-injetavel){:target="_blank"}**
 
   ---
 
