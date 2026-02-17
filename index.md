@@ -4,7 +4,8 @@
     }
 </style>
 
-# MMS (MASTER MINERAL SOLUTION), CDS (CHLORINE DIOXIDE SOLUTION) & DMSO (DIMETILSULFÓXIDO)
+# MMS, CDS e DMSO — Informações Gerais
+
 
 ## **Índice**
 - [**Introdução**](#introducao)
