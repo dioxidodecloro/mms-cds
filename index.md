@@ -105,6 +105,8 @@ A legislação sobre o dióxido de cloro varia entre diferentes países e aplica
 ## **Alguns Fornecedores de Purificador de Água**
 <a id="fornecedores-purificador-agua"></a>
 - **[Leandro Mais e Mais Saúde](https://leandro-mms.lojaintegrada.com.br){:target="_blank"}**
-
+- **[Naturalquimica](https://www.naturalquimica.com/category/all-products){:target="_blank"}**
+- **[Parasitasbr](https://www.parasitasbr.com.br){:target="_blank"}**
+- **[CLO2 Fast](https://www.clo2fast.com.br){:target="_blank"}**
 
 
